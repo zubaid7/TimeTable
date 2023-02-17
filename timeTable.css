@@ -1,0 +1,26 @@
+table{
+	 background-color:none ;
+	 border-collapse: collapse;
+	 width: 80%;
+	 height: 25rem;
+	
+	
+}
+#dis{
+	background-color: black;
+	color: white;
+}
+tr{
+	text-align: center;
+}
+#m{
+	font-size: 30px;
+	text-transform: uppercase;
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+	letter-spacing: 5px;
+	color: red;
+}
+#ss{
+	color: red;
+ }
